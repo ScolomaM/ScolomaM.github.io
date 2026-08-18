@@ -1,2 +1,5 @@
-# ScolomaM.github.io
-Sitio público de las aplicaciones Android de ScolomaM
+# Sitio de desarrollador de ScolomaM
+
+Sitio pÃºblico y archivo app-ads.txt para Calendario de turnos.
+
+https://scolomam.github.io/
